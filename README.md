@@ -26,6 +26,12 @@
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
+## Enviroment
+
+API_URL={the meal db url}
+STRIPE_SECRET_KEY={secret stripe key}
+STRIPE_CURRENCY={currency option, ex. usd}
+
 ## Installation
 
 ```bash
