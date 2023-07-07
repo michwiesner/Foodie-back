@@ -31,6 +31,7 @@
 API_URL={the meal db url}
 STRIPE_SECRET_KEY={secret stripe key}
 STRIPE_CURRENCY={currency option, ex. usd}
+MONGO_URI={mongo uri to database}
 
 ## Installation
 
